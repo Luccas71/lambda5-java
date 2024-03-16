@@ -1,0 +1,5 @@
+Maria, maria@email.com, 3200.0
+Alex, alex@email.com, 1900.0
+Marco, marco@email.com, 1700.0
+Bob, bob@email.com, 3500.0
+Anna, anna@email.com, 2800
